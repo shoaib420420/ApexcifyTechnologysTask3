@@ -1,6 +1,6 @@
 # School / Tuition Institute Management System
 
-A comprehensive web-based application for managing school or tuition institute operations. This system handles various roles including Admins, Teachers, Students, and Parents, streamlining administrative tasks, academic tracking, and communication.
+A comprehensive web-based application for managing school or tuition institute operations. This system handles various roles including Admins, Teachers, Students, and Parents, streamlining administrative tasks, academic tracking, and communication. You can check project in video through this link: https://drive.google.com/file/d/1wXjMF7E4CS8h0MoCXil1r-TkDzz7QHEp/view?usp=sharing
 
 ## 🚀 Features
 
